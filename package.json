@@ -1,0 +1,23 @@
+{
+  "name": "mybackend",
+  "version": "1.0.0",
+  "description": "backend course",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kartikey0598/mybackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kartikey0598/mybackend/issues"
+  },
+  "homepage": "https://github.com/Kartikey0598/mybackend#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
